@@ -15,10 +15,10 @@ Hey, I'm Francis Bui!
 <hr>
 
 ```
-francis-bui@github
+🌐 Incoming ML Engineer @ Gridspace
 -------------------------
-💻 I am an aspiring Full Stack Developer and Machine Learning Engineer
-📚 I'm earning a degree in Mechatronics Engineering at the University of Waterloo
+💻 I'm an aspiring Full Stack Developer and Machine Learning Engineer
+📚 I'm studying Mechatronics Engineering at the University of Waterloo
 📝 I have a deep passion for Robotics and Artificial Intelligence
 🔭 Working on cool Robots with Deep Learning & Machine Learning
 🌱 Learning about Machine Learning Optimization
@@ -99,7 +99,3 @@ francis-bui@github
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francis-bui&langs_count=8&theme=algolia&layout=compact) |
 
 <!-- Credits:[I-am-vishalmaurya](https://github.com/I-am-vishalmaurya) -->
-
-
-
-
