@@ -11,7 +11,7 @@ Hey, I'm Francis Bui!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Mechatronics+Engineering+Student;Full+Stack+Developer;Specialist+in+Robotics;Check+Out+My+Portfolio+Above;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://uploads-ssl.webflow.com/626f25adce0d71652d643769/63278abc94be2aeb3e40bab1_IMG_9719.JPG" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://raw.githubusercontent.com/Francis-Bui/Francis-Bui/main/CDUE1044_OPENCV-min.png" width="320" />
 <hr>
 
 ```
