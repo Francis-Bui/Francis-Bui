@@ -96,6 +96,6 @@ Hey, I'm Francis Bui!
 | ![Francis' 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=francis-bui&theme=react-dark&hide_border=true&area=true) |
 | ![Francis' github stats](https://github-readme-stats.vercel.app/api?username=francis-bui&show_icons=true&theme=algolia&hide=contribs,issues)              | 
 | ![Francis' GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=francis-bui&theme=algolia)                    | 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francis-bui&langs_count=8&theme=algolia&layout=compact) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francis-bui&langs_count=6&theme=algolia&layout=compact) |
 
 <!-- Credits:[I-am-vishalmaurya](https://github.com/I-am-vishalmaurya) -->
