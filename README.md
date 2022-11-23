@@ -3,7 +3,7 @@ Hey, I'm Francis Bui!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
  <!--<img src="https://komarev.com/ghpvc/?username=francis-bui&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="francisbui" />-->
  <img src="https://gpvc.arturio.dev/francis-bui" alt="Profile views" align='right'/> <a href="https://github.com/francis-bui/francis-bui/"> </a> 
- <a href="https://francisbui.ca/"><img alt="Portfolio" align='left' src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"> </a> </h1>
+ <a href="https://francisbui.ca/"><img alt="Portfolio" align='left' src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"> </a> </h1>
 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -33,6 +33,7 @@ Hey, I'm Francis Bui!
 
 <p align="center">
     <a href="https://github.com/search?q=user%3Afrancis-bui+is%3Arepo+language%3Ac%2B%2B"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Afrancis-bui+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Afrancis-bui+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Afrancis-bui+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Afrancis-bui+is%3Arepo+language%3ANET"><img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a>
