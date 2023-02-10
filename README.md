@@ -15,17 +15,14 @@ Hey, I'm Francis Bui!
 <hr>
 
 ```
-🌐 Incoming ML Engineer @ Gridspace
+🌐 ML Engineer @ Gridspace
 -------------------------
 💻 I'm an aspiring Full Stack Developer and Machine Learning Engineer
 📚 I'm studying Mechatronics Engineering at the University of Waterloo
 📝 I have a deep passion for Robotics and Artificial Intelligence
 🔭 Working on cool Robots with Deep Learning & Machine Learning
-🌱 Learning about Machine Learning Optimization
+🌱 Learning about LLMs
 🌟 Main languages: Python, C++
-🚩 Interested in making awesome things
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, rock, phonk, and alternative
 ```
 <hr/>
 
