@@ -88,9 +88,4 @@ Hey, I'm Francis Bui!
     <a href="#"><img alt="Replit" src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"></a>
 </p>
 
-|                                                                     Francis' Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Francis' GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=francis-bui&theme=algolia)                    | 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francis-bui&langs_count=6&theme=algolia&layout=compact) |
-
 <!-- Credits:[I-am-vishalmaurya](https://github.com/I-am-vishalmaurya) -->
